@@ -1,0 +1,1 @@
+[['Para', 48, 10.99, 'Tablet'], ['Amox', 20, 25.5, 'Capsule'], ['Cough', 30, 15.75, 'Syrup']]

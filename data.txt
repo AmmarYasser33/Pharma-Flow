@@ -1,0 +1,1 @@
+{'total_sales': 24, 'profit': 2.2}
